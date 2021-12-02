@@ -6,7 +6,7 @@ For tanks:
 
 For maps:
 
-- - To install mods, simple copy the contents from the mod you would like to install, to ``C:\Program Files (x86)\Steam\steamapps\common\World of Tanks Blitz\Data\3d\Maps``. Then remove ``C:\Program Files (x86)\Steam\steamapps\common\World of Tanks Blitz\Data\3d\Maps\<country>\<tankname>.sc2.dvpl``.
+- To install mods, simple copy the contents from the mod you would like to install, to ``C:\Program Files (x86)\Steam\steamapps\common\World of Tanks Blitz\Data\3d\Maps``. Then remove ``C:\Program Files (x86)\Steam\steamapps\common\World of Tanks Blitz\Data\3d\Maps\<country>\<tankname>.sc2.dvpl``.
 
 # Important
 
