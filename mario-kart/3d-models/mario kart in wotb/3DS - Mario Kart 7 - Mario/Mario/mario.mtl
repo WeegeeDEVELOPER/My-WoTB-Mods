@@ -1,0 +1,20 @@
+# Material file for mario.obj
+
+newmtl mat_mr_body
+	Ns 0
+	d 1
+	illum 2
+	Kd 1.0 1.0 1.0
+	Ks 0.34902 0.34902 0.34902
+	Ka 1.0 1.0 1.0
+	map_Kd mario_all.png
+
+newmtl mat_mr_eye
+	Ns 0
+	d 1
+	illum 2
+	Kd 1.0 1.0 1.0
+	Ks 0.34902 0.34902 0.34902
+	Ka 1.0 1.0 1.0
+	map_Kd mario_eye.0.png
+
